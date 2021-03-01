@@ -1,12 +1,12 @@
-### Привет 🙋‍♂️
+### Hi 🙋‍♂️
 
-Я frontend & backend разработчик.
+I'm frontend & backend developer.
 
-### Связаться со мной
+### Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-❯-blue?logo=telegram&logoColor=FFFFFF&labelColor=0088CC&style=for-the-badge&color=FAFAFA)](https://t.me/WebDeveloperRus)
 
-### Инструменты
+### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />](https://laravel.com/)
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net/)
@@ -26,7 +26,7 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
 <br />
 
-### Пакетные менеджеры
+### Package Managers
 [<img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" />](https://getcomposer.org/)
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />](https://www.npmjs.com/)
 <br />
